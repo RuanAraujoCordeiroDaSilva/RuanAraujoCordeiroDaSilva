@@ -1,6 +1,6 @@
 <div>
  
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=001AFF&width=435&lines=Ol%C3%A1!+Eu+sou+o+Ruan+Araújo!)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF0000&width=435&lines=Ol%C3%A1!+Eu+sou+o+Ruan+Ara%C3%BAjo!)](https://git.io/typing-svg)
  
  
 Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na FICR (Faculdade Católica Imaculada Conceição do Recife). Tenho interesse tanto na área de front-end quanto em back-end, mas meu foco principal está no desenvolvimento front-end, especialmente com JavaScript, linguagem pela qual tenho grande afinidade. Estou sempre em busca de aprimorar minhas habilidades, explorando novas tecnologias e me mantendo atualizado no mundo da programação, pois sou apaixonado por aprender e transformar ideias em soluções criativas e funcionais.
@@ -33,8 +33,9 @@ Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na FICR (Fac
   <div  align="center" style="margin-bottom:100px">
  
    ## GitHub Stats
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanAraujoCordeiroDaSilva&show_icons=true&locale=pt-br&hide_title=true&bg_color=000000&title_color=0a75ad&text_color=0a75ad&icon_color=0a75ad&border_color=0a75ad&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanAraujoCordeiroDaSilva&layout=compact&locale=pt-br&bg_color=000000&title_color=0a75ad&text_color=0a75ad&icon_color=0a75ad&border_color=0a75ad&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanAraujoCordeiroDaSilva&show_icons=true&locale=pt-br&hide_title=true&bg_color=000000&title_color=FF0000&text_color=FF0000&icon_color=FF0000&border_color=FF0000&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanAraujoCordeiroDaSilva&layout=compact&locale=pt-br&bg_color=000000&title_color=FF0000&text_color=FF0000&icon_color=FF0000&border_color=FF0000&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+
    </div>
  
    ## Contacts:
